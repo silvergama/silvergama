@@ -3,7 +3,7 @@
 ### Hi, welcome to my profile :+1:
 
 - :man_technologist: I’m currently working with [Grupo ZAP](https://www.grupozap.com)
-- :man_student: I’m currently learning Golang, kubernetes and TDD(Test-Driven Development)
+- :man_student: I’m currently learning Golang and TDD(Test-Driven Development)
 - :computer: In love with code
 - :family_man_woman_boy: In love with my family (Primary item)
 
