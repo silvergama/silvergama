@@ -1,4 +1,4 @@
-# :man_technologist: Silver Gama 
+# :man_technologist: Silver Gama  ![Profile views](https://gpvc.arturio.dev/silvergama)
 
 ### Hi, welcome to my profile :+1:
 
