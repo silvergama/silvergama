@@ -18,10 +18,7 @@
     width: 50%;
     " href="https://github.com/silvergama/silvergama">
   <img src="https://github-readme-stats.vercel.app/api/?username=silvergama&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
-<a style="
-    float: right;
-    width: 45%%;
-" href="https://github.com/silvergama/silvergama">
+<a href="https://github.com/silvergama/silvergama">
   <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=silvergama&layout=compact" />
 </a>
 </p>
