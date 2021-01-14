@@ -3,7 +3,7 @@
 ### Hi, welcome to my profile :+1:
 
 - :family_man_woman_boy: &nbsp; In love with my family (Primary item)
-- :man_technologist: &nbsp; I’m currently working with [Grupo ZAP](https://www.grupozap.com)
+- :man_technologist: &nbsp; I’m currently working with [OLX Brasil](https://github.com/olxbr)
 - :man_student: &nbsp; I’m currently learning Golang and TDD(Test-Driven Development)
 - :computer: &nbsp; In love with code
 
