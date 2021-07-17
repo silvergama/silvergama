@@ -24,6 +24,6 @@ Dafiti Group](https://github.com/dafiti-group)
 <img style="width: 49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=silvergama&layout=compact&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
 </a>
 <a href="https://github.com/silvergama/silvergama">
-<img src="https://github-readme-stats.vercel.app/api/?username=silvergama&count_private=true&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
+<img src="https://github-readme-stats.vercel.app/api/?username=silvergama&count_private=true&show_icons=true&show_icons=true&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
 
 </p>
