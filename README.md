@@ -16,14 +16,9 @@ Dafiti Group](https://github.com/dafiti-group)
 [![Gmail Badge](https://img.shields.io/badge/-silver.mdg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silver.mdg@gmail.com)](mailto:silver.mdg@gmail.com)
 
 <p>
-
-<a style="
-    float: left;
-    width: 50%;
-    " href="https://github.com/silvergama/silvergama">
-<img style="width: 49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=silvergama&layout=compact&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
-</a>
 <a href="https://github.com/silvergama/silvergama">
-<img src="https://github-readme-stats.vercel.app/api/?username=silvergama&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
-
+<img width="53.5%" align="left" src="https://github-readme-stats.vercel.app/api/?username=silvergama&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/silvergama/silvergama">
+<img width="43.5%"src="https://github-readme-stats.vercel.app/api/wakatime?username=silvergama&layout=compact&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
+</a>
 </p>
