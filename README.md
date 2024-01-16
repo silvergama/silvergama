@@ -3,8 +3,6 @@
 ### Hi, welcome to my profile :+1:
 
 - :family_man_woman_boy: &nbsp; In love with my family (Primary item) 
-- :man_technologist: &nbsp; I’m currently working with [
-Unico IDTech](https://github.com/acesso-io) 
 - :man_student: &nbsp; I’m currently learning Golang and TDD(Test-Driven Development)
 - :computer: &nbsp; In love with code
 
